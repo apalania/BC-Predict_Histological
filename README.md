@@ -45,7 +45,8 @@ We provide the RDS objects of the best-performing Histological Subtyping models 
 
 ## Citing us:
 Muthamilselvan S, Palaniappan A. BC-Predict: Mining of signal biomarkers and multilevel validation of cascade classifier for early-stage breast cancer subtyping and prognosis (2024). Submitted [![DOI](https://zenodo.org/badge/762600906.svg)](https://zenodo.org/doi/10.5281/zenodo.10817854)
+## Funding
+1. DST-SERB EMR/2017/00040
+2. Computing in our lab is also supported by a generous grant from Google TRC (TPU Research Cloud).
 ## Copyright & License
-
-
 Copyright (c) 2024, the Authors @ [SASTRA University](https://www.sastra.edu). GPL-3.0 License (only this repo). 
