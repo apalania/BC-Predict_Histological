@@ -7,7 +7,7 @@ Muthamilselvan S && Palaniappan A. [BC-Predict](https://apalania.shinyapps.io/BC
 ## [BC-Predict](https://apalania.shinyapps.io/BC-Predict)
 [BC-Predict](https://apalania.shinyapps.io/BC-Predict) is the primary resource translating the results from the above cited study into a unified predictive model of multiple problems in breast cancer heterogeneity. It provides access to all the models developed in the study. All predictions are accompanied by prediction probabilities to provide confidence for the predicted class. BC-Predict is available for purely academic research.  For any use not indicated above, please contact: [Authors](mailto:apalania@scbt.sastra.edu).
 
-[BC-Predict_Histological](https://github.com/apalania/BC-Predict_Histological) is a command-line interface to one of the models in the BC-Predict architecture, namely the Invasive Ductal v/s Invasive Lobular carcinoma. Since this problem was the least tractable of the different problems addressed, we are sharing the source code and the model objects developed, with a view to accelerating research in this area.  The standalone interface is a refinement over the webserver 
+[BC-Predict_Histological](https://github.com/apalania/BC-Predict_Histological) is a command-line interface to one of the models in the BC-Predict architecture, namely the Invasive Ductal v/s Invasive Lobular carcinoma. Since this problem was the least tractable of the different problems addressed, we are sharing the source code and the model objects developed, with a view to foster research in this area.   
 
 ### Histological_subtype Model Performance
 #### Confusion Matrix:
@@ -30,7 +30,7 @@ EnsembleClassifier_HistologicalSubtype.R
 	- If the two models do not agree on the prediction class, then the prediction is deemed '_Inconclusive_'. 
 * Provides a refined command-line interface for the Histological Subtype model in: [BC-Predict](https://apalania.shinyapps.io/BC-Predict) webserver.
 	* suitable for further investigations and model improvement.
-	* 
+	  
 Models
 -----
 We provide the RDS objects of the best-performing Histological Subtyping models from our work (refer the Citation). These could be used in an Ensemble Classifier model for academic purposes (as implemented in [BC-Predict](https://apalania.shinyapps.io/BC-Predict) webserver). Both models were trained on the TCGA BRCA dataset. 
@@ -49,4 +49,4 @@ Muthamilselvan S, Palaniappan A. BC-Predict: Mining of signal biomarkers and mul
 1. DST-SERB EMR/2017/00040
 2. Computing in our lab is also supported by a generous grant from Google TRC (TPU Research Cloud).
 ## Copyright & License
-Copyright (c) 2024, the Authors @ [SASTRA University](https://www.sastra.edu). GPL-3.0 License (only this repo). 
+Copyright (c) 2024, the Authors @ [SASTRA University](https://www.sastra.edu). Repository licensed under GPL-3.0.  
