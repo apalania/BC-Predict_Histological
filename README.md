@@ -1,5 +1,6 @@
-# BC-Predict_Histological
 [![DOI](https://zenodo.org/badge/762600906.svg)](https://zenodo.org/doi/10.5281/zenodo.10817854)
+![]https://img.shields.io/badge/licence-GPL--3.0-green)
+# BC-Predict_Histological
 ## Machine learning models for predicting the histological subtype of breast cancers
 A resource to accompany:
 Muthamilselvan S && Palaniappan A. [BC-Predict](https://apalania.shinyapps.io/BC-Predict): Mining of signal biomarkers and multilevel validation of cascade classifier for early-stage breast cancer subtyping and prognosis. 2024 (submitted) 
