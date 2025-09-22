@@ -46,7 +46,7 @@ We provide the RDS objects of the best-performing Histological Subtyping models 
     
 1. Test.csv: File format used as input to BC-Predict, both the web-server and command-line HistologicalSubtype. Expression values of the biomarkers are provided one sample per line, in a comma-separated format, with a header line indicating the order of the biomarkers.
 
-## Citing us:
+## Please cite:
 Muthamilselvan S, Vaithilingam N and Palaniappan A (2025) BC-predict: mining of signal biomarkers and production of models for early-stage breast cancer subtyping and prognosis. Front. Bioinform. 5:1644695. [doi: 10.3389/fbinf.2025.1644695](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2025.1644695/) [![DOI](https://zenodo.org/badge/762600906.svg)](https://zenodo.org/doi/10.5281/zenodo.10817854)
 ## Funding
 1. DST-SERB EMR/2017/00040
