@@ -3,8 +3,9 @@
 # BC-Predict_Histological
 ## Machine learning models for predicting the histological subtype of breast cancers
 A resource to accompany:
-Muthamilselvan S, Vaithilingam N and Palaniappan A (2025) [BC-Predict](https://apalania.shinyapps.io/BC-Predict): mining of signal biomarkers and production of models for early-stage breast cancer subtyping and prognosis. Front. Bioinform. 5:1644695. doi: 10.3389/fbinf.2025.1644695
-
+`
+Muthamilselvan S, Vaithilingam N and Palaniappan A (2025) BC-Predict: mining of signal biomarkers and production of models for early-stage breast cancer subtyping and prognosis. Front. Bioinform. 5:1644695. doi: 10.3389/fbinf.2025.1644695
+`
 ## [BC-Predict](https://apalania.shinyapps.io/BC-Predict)
 [BC-Predict](https://apalania.shinyapps.io/BC-Predict) is the primary resource translating the results from the above cited study into a unified predictive model of multiple problems in breast cancer heterogeneity. It provides access to all the models developed in the study. All predictions are accompanied by prediction probabilities to provide confidence for the predicted class. BC-Predict is available for purely academic research.  For any use not indicated above, please contact: [Authors](mailto:apalania@scbt.sastra.edu).
 
